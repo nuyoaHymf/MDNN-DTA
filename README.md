@@ -1,5 +1,5 @@
 # MDNN-DTA
-a multimodal deep neural network for drug-target affinity prediction
+A multimodal deep neural network for drug-target affinity prediction
 # Datasets
 ```
 Davis: dataset/davis/original
