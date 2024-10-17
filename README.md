@@ -7,6 +7,8 @@ Davis: dataset/davis/original
 ```
 KIBA: dataset/kiba/original
 ```
+BindingDB: https://www.bindingdb.org/bind/index.jsp
+```
 # Requirements
 Python 3.8.18 <br> PyTorch 1.13.1<br> Biopython<br> Numpy<br> Pandas<br> Pillow<br> Rdkit-pypi<br> Scikit-learn<br> Scipy<br> Fair-esm<br>
 # Training
