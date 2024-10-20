@@ -4,7 +4,11 @@ A multimodal deep neural network for drug-target affinity prediction
 We used two accepted benchmark datasets and one additional dataset to validate the model's generalization ability and prediction accuracy. They can be found at the following link.
 ```
 Davis: dataset/davis/original or https://www.kaggle.com/datasets/christang0002/davis-and-kiba
+```
+```
 KIBA: dataset/kiba/original or https://www.kaggle.com/datasets/christang0002/davis-and-kiba
+```
+```
 BindingDB: https://www.bindingdb.org/bind/index.jsp
 ```
 
